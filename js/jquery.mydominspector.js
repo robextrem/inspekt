@@ -316,7 +316,7 @@
                                             }
 
                                             $(".target-elements").html(fillDOMlabels(target_elements2));
-                                            $(target_elements2.join(" ")).css("outline", "3px " + componentObj.outlineStyle + " " + componentObj.outlineColor);
+                                            $(target_elements2.join("")).css("outline", "3px " + componentObj.outlineStyle + " " + componentObj.outlineColor);
 
                                         }
                                     });

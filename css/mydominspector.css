@@ -1,3 +1,7 @@
+#mydominspector{
+    font-family: "Helvetica Neue", Helvetica, Arial, Verdana;
+}
+
 #mydominspector #on{
     position: fixed;
     height: 45px;
@@ -242,6 +246,7 @@
     left: 0px;
     z-index: 50000;
     outline: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, Verdana;
 }
 
 .mydominspector-modal .mydominspector-dialog{
